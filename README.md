@@ -7,4 +7,5 @@ This is the template you would (usually) use to develop an app for the Kraken pl
 
 ## How do I upload my apps?
 Currently there is no official way to upload your apps to tbe Blocks market.
-You can attempt to either inject your app directly into the *apps* folder.
+
+You can attempt to inject your app directly into the *apps* folder.
