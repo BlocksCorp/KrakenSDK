@@ -1,6 +1,6 @@
 {
-    "name": "system",
-    "author": "blocksCore",
+    "name": "example",
+    "author": "you",
     "launch_url": "/indexs/index.html",
     "icons": {"128": "/images/icon-128.png"},
     "permissions": ["all"]
