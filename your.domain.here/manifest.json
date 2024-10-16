@@ -1,0 +1,11 @@
+{
+    "name": "system",
+    "author": "blocksCore",
+    "launch_url": "/indexs/index.html",
+    "icons": {"128": "/images/icon-128.png"},
+    "permissions": ["all"]
+    "minwidth": "350",
+    "maxwidth": "350",
+    "minheight": "480",
+    "maxheight": "480"
+}
