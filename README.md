@@ -1,5 +1,5 @@
 # KrakenSDK
-(WARNING: THIS IS OUT OF DATE)
+(WARNING: i havent tested this version yet, should work)
 ## What is KrakenSDK?
 This is the template you would (usually) use to develop an app for the Kraken platform.
 ## How do I upload my apps?
